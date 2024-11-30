@@ -25,7 +25,7 @@ I have experience managing small data analytics teams and am passionate about me
 ### A Few Quick Facts
 - 🔭 Currently working on several **Computer Vision** projects.
 - 🧮 Expanding my knowledge in **Linear Algebra**.
-- 🤔 Actively looking for **Ph.D. opportunities** in computer vision and machine learning.
+- 🤔 Actively looking for **opportunities** in machine learning and computer vision.
 - 💬 Feel free to ask me about anything related to cutting-edge tech and research.
 
 ## Contact Information
