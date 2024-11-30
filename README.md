@@ -29,7 +29,7 @@ I have experience managing small data analytics teams and am passionate about me
 - 💬 Feel free to ask me about anything related to cutting-edge tech and research.
 
 ## Contact Information
-📫 Reach me at: [shwetamishra.mm@gmail.com](mailto:shwetamishra.mm@gmail.com)
+📫 Reach me at: [Shweta-mishra@hotmail.com](mailto:Shweta-mishra@hotmail.com)
 
 ---
 
