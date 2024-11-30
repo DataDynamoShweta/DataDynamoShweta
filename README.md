@@ -1,7 +1,7 @@
 # Shweta Mishra 
 
 ## Overview
-I am a data analytics professional with over **8 years of experience** in **Advanced Data Analytics** and **business consulting** across various industries, including **debt collection**, **healthcare**, and **FMCG**. I specialize in developing analytical models to address business challenges, utilizing technologies such as **SAS**, **Teradata SQL**, and **Python**. My ability to communicate complex data insights to non-technical stakeholders is one of my key strengths.
+I am a data analytics professional with over **9 years of experience** in **Advanced Data Analytics** and **business consulting** across various industries, including **debt collection**, **healthcare**, and **FMCG**. I specialize in developing analytical models to address business challenges, utilizing technologies such as **SAS**, **Teradata SQL**, and **Python**. My ability to communicate complex data insights to non-technical stakeholders is one of my key strengths.
 
 ## Skills
 - **🔍 Analytical Model Development**: Expertise in creating models for:
