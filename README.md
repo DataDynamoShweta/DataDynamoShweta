@@ -1,36 +1,39 @@
-# Shweta Mishra 
+# **Shweta Mishra**  
 
-## Overview
-I am a data analytics professional with over **9 years of experience** in **Advanced Data Analytics** and **business consulting** across various industries, including **debt collection**, **healthcare**, and **FMCG**. I specialize in developing analytical models to address business challenges, utilizing technologies such as **SAS**, **Teradata SQL**, and **Python**. My ability to communicate complex data insights to non-technical stakeholders is one of my key strengths.
+## **Overview**  
+I am a data analytics professional with over **9 years of experience** in **Advanced Data Analytics** and **Business Consulting** across diverse industries, including **Debt Collection**, **Healthcare**, and **FMCG**. I specialize in building analytical models that solve complex business challenges, using tools like **SAS**, **Teradata SQL**, and **Python**. My strength lies in translating complex data insights into actionable business solutions for non-technical stakeholders.
 
-## Skills
-- **🔍 Analytical Model Development**: Expertise in creating models for:
-  - Classification Models
-  - Regression Problems
-  - Natural Language Processing (NLP) Problems
-- **💻 Technical Proficiency**: Skilled in:
-  - SAS
-  - Teradata SQL
-  - Python
+## **Skills**  
+- **🔍 Analytical Model Development**  
+  Expertise in creating models for:
+  - 📊 **Classification Models**
+  - 📈 **Regression Analysis**
+  - 🧠 **Natural Language Processing (NLP)**
 
-## Leadership & Mentoring
-I have experience managing small data analytics teams and am passionate about mentoring junior team members. I believe in multiplying impact through effective technical leadership.
+- **💻 Technical Proficiency**  
+  Skilled in:\
+   🔹 **SAS**  
+   🔹 **Teradata SQL**  
+   🔹 **Python**
 
-## Current Projects & Interests
-### Models Worked On
-- Classification Models
-- Regression Problems
-- NLP Problems
+## **Leadership & Mentoring**  
+I have led small data analytics teams and am passionate about mentoring junior team members. I believe in multiplying impact through **effective technical leadership** and empowering others to reach their full potential.
 
-### A Few Quick Facts
-- 🔭 Currently working on several **Computer Vision** projects.
-- 🧮 Expanding my knowledge in **Linear Algebra**.
-- 🤔 Actively looking for **opportunities** in machine learning and computer vision.
-- 💬 Feel free to ask me about anything related to cutting-edge tech and research.
+## **Current Projects & Interests**  
+### **Models Worked On**  
+- 📊 **Classification Models**  
+- 📉 **Regression Models**  
+- 🧠 **NLP Solutions**
 
-## Contact Information
-📫 Reach me at: [Shweta-mishra@hotmail.com](mailto:Shweta-mishra@hotmail.com)
+### **Quick Facts**  
+- 🔭 Currently working on several **Computer Vision** projects.  
+- 📚 Expanding my expertise in **Linear Algebra**.  
+- 🤖 Actively seeking **opportunities** in **Machine Learning** and **Computer Vision**.  
+- 💬 Feel free to ask me about anything related to **cutting-edge technology** and **data science research**.
+
+## **Contact Information**  
+📫 **Reach me at**: [Shweta-mishra@hotmail.com](mailto:Shweta-mishra@hotmail.com)
 
 ---
 
-Thank you for visiting my profile! I look forward to connecting with fellow professionals and exploring new opportunities in the field of data analytics and machine learning.
+Thank you for visiting my profile! I look forward to connecting with fellow professionals and exploring new opportunities in data analytics and machine learning.  
