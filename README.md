@@ -25,10 +25,10 @@ I have led small data analytics teams and am passionate about mentoring junior t
 - 📉 **Regression Models**  
 
 ### **Quick Facts**  
-- 🔭 Currently working on several **Computer Vision** projects.  
+ 
 - 📚 Expanding my expertise in **Linear Algebra**.  
-- 🤖 Actively seeking **opportunities** in **Machine Learning** and **Computer Vision**.  
-- 💬 Feel free to ask me about anything related to **cutting-edge technology** and **data science research**.
+- 🤖 Actively seeking **opportunities** in **Machine Learning** 
+
 
 ## **Contact Information**  
 📫 **Reach me at**: [Shweta-mishra@hotmail.com](mailto:Shweta-mishra@hotmail.com)
