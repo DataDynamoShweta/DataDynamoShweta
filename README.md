@@ -23,7 +23,6 @@ I have led small data analytics teams and am passionate about mentoring junior t
 ### **Models Worked On**  
 - 📊 **Classification Models**  
 - 📉 **Regression Models**  
-- 🧠 **NLP Solutions**
 
 ### **Quick Facts**  
 - 🔭 Currently working on several **Computer Vision** projects.  
